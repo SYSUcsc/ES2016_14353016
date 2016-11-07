@@ -2,15 +2,15 @@
 * 修改代码后的结果
 	* 输出结果
 		1. Example2  
-		![](".//example2.png")
+		![](https://ooo.0o0.ooo/2016/11/07/58208b0e8229b.png)
 		2. Example1  
-		![](ES2016_14353016/assignment/example1.png)
+		![](https://ooo.0o0.ooo/2016/11/07/58208af6d6761.png)
 	* .dot文件
 		1. Example2  
-		![](".//example2_code1.png")  
-		![](".//example2_code2.png")
+		![](https://ooo.0o0.ooo/2016/11/07/58208b2e46e6a.png)  
+		![](https://ooo.0o0.ooo/2016/11/07/58208b4799b13.png)
 		2. Example1  
-		![](".//example2.png")
+		![](https://ooo.0o0.ooo/2016/11/07/58208b61af3d2.png)
 
 * 具体如何修改的解释
 	* 修改example2,让3个square模块变成2个  
