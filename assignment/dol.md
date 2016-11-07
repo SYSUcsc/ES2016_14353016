@@ -4,7 +4,7 @@
 		1. Example2  
 		![](".//example2.png")
 		2. Example1  
-		![](".//example1.png")
+		![](ES2016_14353016/assignment/example1.png)
 	* .dot文件
 		1. Example2  
 		![](".//example2_code1.png")  
